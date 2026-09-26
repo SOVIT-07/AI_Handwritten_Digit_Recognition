@@ -1,0 +1,10 @@
+MNIST CNN Evaluation Summary
+============================
+
+Total Test Images: 10000
+Correct Predictions: 9930
+Incorrect Predictions: 70
+
+Weighted Precision: 0.9930
+Weighted Recall:    0.9930
+Weighted F1-Score:  0.9930

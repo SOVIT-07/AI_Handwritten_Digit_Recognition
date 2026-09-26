@@ -1,0 +1,29 @@
+MNIST CNN Training Results
+==========================
+
+Test Loss: 0.0243
+Test Accuracy: 99.30%
+
+Training Accuracy:
+Epoch 1: 0.9232
+Epoch 2: 0.9796
+Epoch 3: 0.9864
+Epoch 4: 0.9893
+Epoch 5: 0.9911
+Epoch 6: 0.9928
+Epoch 7: 0.9939
+Epoch 8: 0.9945
+Epoch 9: 0.9951
+Epoch 10: 0.9960
+
+Validation Accuracy:
+Epoch 1: 0.9830
+Epoch 2: 0.9900
+Epoch 3: 0.9907
+Epoch 4: 0.9892
+Epoch 5: 0.9918
+Epoch 6: 0.9918
+Epoch 7: 0.9917
+Epoch 8: 0.9928
+Epoch 9: 0.9920
+Epoch 10: 0.9925
